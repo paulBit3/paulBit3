@@ -3,7 +3,7 @@
 Backend Software Engineer
 -----
 I graduated in Software Engineering from Promineo Tech coding Bootcamp, where I learned to built real backend application using Java, MySQL, Spring Boot tech stack. 
-I also learned architecture design patern to build Rest API and microservices using Java, MySQL, and Spring Boot tech stack.
+I also learned design patterns architecture to build Rest API and microservices using Java, MySQL, and Spring Boot tech stack.
 I would love to keep learning new technologies and contribute to projects to power billion of people worldwide.
 
 -----
