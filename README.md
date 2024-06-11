@@ -1,9 +1,12 @@
 ## Hi there 👋 I'm Paul
 -----
-Backend Software Engineer
+Full-Stack Software Engineer
 -----
-I graduated in Software Engineering from Promineo Tech coding Bootcamp, where I learned to built real backend application using Java, MySQL, Spring Boot tech stack. 
-I also learned design patterns architecture to build Rest API and microservices using Java, MySQL, and Spring Boot tech stack.
+I'm interested in building new technologies to power the world. 
+Therefore, I believe I'll be a solid asset for your company since I will rely on my passion for technology to developing scalable software solutions, and my willingnes to learn, and grow in your team.
+
+I am confident in my ability to contribute to your team and help yout company drive innovation.
+Tech stack: Java/Python/JavaScript/AI, Spring Boot, Django, React/Express, MySQL, PostgreSQL, MongoDB, HTML, CSS
 I would love to keep learning new technologies and contribute to projects to power billion of people worldwide.
 
 -----
