@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Paul
 -----
-Full-Stack Software Engineer
+Full-Stack Software Engineer((Frontend / Backend / AI))
 -----
 I'm interested in building new technologies to power the world. 
 Therefore, I believe I'll be a solid asset for your company since I will rely on my passion for technology to developing scalable software solutions, and my willingness to learn, and grow in your team.
