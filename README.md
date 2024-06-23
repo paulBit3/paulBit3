@@ -1,9 +1,7 @@
-## Hi there 👋 I'm Paul
------
-Full-Stack Software Developer((Frontend / Backend / AI)) for Hire
+## Hi there 👋 I'm Paul, a Software Developer for Hire
 -----
 I'm interested in building new technologies to power the world. 
-Therefore, I believe I'll be a solid asset for your company since I will rely on my passion for technology to developing scalable software solutions, and my willingness to learn, and grow in your team.
+Therefore, I believe I'll be a solid asset for your company since I will rely on my passion for technology to developing scalable software solutions, and my willingness to learn, and grow in your team. I have Skills in ((Frontend / Backend / AI)) technologies,which made me as A FullSatck Software Developer.
 
 ----
 Tech/Stack:
