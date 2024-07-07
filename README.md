@@ -2,7 +2,7 @@
 -----
 I'm interested in building new technologies to power the world. 
 Therefore, I believe I'll be a solid asset for your company since I will rely on my passion for technology to developing scalable software solutions, and my willingness to learn, and grow in your team. 
-I have Skills in ((Frontend / Backend / AI)) technologies,which made me as A FullSatck Software Developer.
+I'm a FullSatck Software Developer with Backend(Java API /SQL /Spring Boot /Python /Django /AI) and Frontend(HTML /CSS /TailWindsCSS /JavaScript /React /Node /Express /NextJs) technologies skillset.
 
 ----
 Tech/Stack:
