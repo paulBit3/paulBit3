@@ -8,9 +8,9 @@ I'm a FullSatck Software Developer with Backend(Java /API /SQL /Spring Boot /Pyt
 Tech/Stack:
 ----
   - Programming Languages: Java, Python, JavaScript, C#/AI
-  - Frameworks: Spring Boot, Django, React/Express
+  - Frameworks: Spring Boot, Django, React/Express, TailwindCSS
   - Database: MySQL, PostgreSQL, SQL Server, MongoDB
-  - Frontend: JavaScript, HTML, CSS.
+  - Frontend: JavaScript, React, HTML, CSS, TailwindCSS.
 
 
 -----
