@@ -10,7 +10,7 @@ Tech/Stack:
   - Programming Languages: Java, Python, JavaScript, C#/AI
   - Frameworks: Spring Boot, Django, React/Express, TailwindCSS
   - Database: MySQL, PostgreSQL, SQL Server, MongoDB
-  - Frontend: JavaScript, React, HTML, CSS, TailwindCSS.
+  - Frontend: JavaScript, React, HTML, CSS, NextJs TailwindCSS.
 
 
 -----
