@@ -17,7 +17,7 @@ Tech/Stack:
 -----
 - 🔭 I’m based in Dallas, TX, USA, and I'm open for Remote / Office and Hybrid work
 - 🌱 I’m deeper focusing on AI/ML(Artificial Intelligence / Machine Leearning) to build smart apps, and smart APIs
-- 👯 I’m looking to collaborate on software development backend/ frontend and AI, and Machine Learning projects worldwide
+- 👯 I’m looking to collaborate on software engineering(backend/ frontend) and AI, and Machine Learning projects worldwide
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about my LinkedIn https://www.linkedin.com/in/paul-brou-660884b0/
 - 📫 How to reach me: PaulBrou@my.unt.edu, paultechnologie@gmail.com
