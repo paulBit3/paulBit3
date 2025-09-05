@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Paul, a Software Developer for Hire
+## Hi there 👋 I'm Paul, a Computer Engineer for Hire
 -----
 I'm interested in building new technologies to power the world. 
 Therefore, I believe I'll be a solid asset for your company since I will rely on my passion for technology to developing scalable software solutions, and my willingness to learn, and grow in your team. 
@@ -7,8 +7,8 @@ I'm a FullSatck Software/AI/ML Engineer with Backend(Java /API /SQL /Spring Boot
 ----
 Tech/Stack:
 ----
-  - Programming Languages: Java, Python, JavaScript, C#/AI
-  - Frameworks: Spring Boot, Django, React/Express, TailwindCSS
+  - Programming Languages: Python, Java, JavaScript, C++
+  - Frameworks: Pytorch, Tensorflow, Spring Boot, Django, React/Express, TailwindCSS
   - Database: MySQL, PostgreSQL, SQL Server, MongoDB
   - Frontend: JavaScript, React, HTML, CSS, NextJs, TailwindCSS.
   - Artificial Intelligent: Machine Learning Ops(MLOps), Neural Language Processing(NLP), Large Language Models(LLMs), Computer Vision
