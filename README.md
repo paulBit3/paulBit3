@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Paul, a Computer Engineer for Hire
 -----
-I'm interested in building new technologies to power the world. 
+I'm a dedicated, ambitious, and forward-thinking Computer Engineering ready to dive into a world of innovation and hands-on learning in a team and contribute to build a product that impact the world positively. 
 Therefore, I believe I'll be a solid asset for your company since I will rely on my passion for technology to developing scalable software solutions, and my willingness to learn, and grow in your team. 
-I'm a FullSatck Software/AI/ML Engineer with Backend(Java /API /SQL /Spring Boot /Python /Django /Flask /Node /Express /AI /Machine Learning) and Frontend(HTML /CSS /TailWindsCSS /JavaScript /React /NextJs) technologies skillset.
 
 ----
 Tech/Stack:
