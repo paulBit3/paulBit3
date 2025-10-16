@@ -7,7 +7,7 @@ I'm a dedicated, ambitious, and forward-thinking Computer Engineering ready to d
 Tech/Stack:
 ----
   - Programming Languages: Python, Java, JavaScript, C++
-  - Frameworks: Pandas, Pytorch, Tensorflow, Spring Boot, Django, React/Express, TailwindCSS
+  - Frameworks: Pandas, Pytorch, Tensorflow, PowerBI, Spring Boot, Django, React/Express, TailwindCSS
   - Database: MySQL, PostgreSQL, SQL Server, MongoDB
   - Frontend: JavaScript, React, HTML, CSS, NextJs, TailwindCSS.
   - Artificial Intelligent: Machine Learning Ops(MLOps), Neural Language Processing(NLP), Large Language Models(LLMs), Computer Vision
